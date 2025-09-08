@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Paul Adekomi  
+use# 👋 Hi, I'm Paul Adekomi  
 
 💻 **Software Engineer** passionate about building modern, responsive, and user-friendly web applications.  
 ⚡ Skilled in **JavaScript, React, Vite, TailwindCSS** and always improving my frontend engineering craft.  
@@ -29,6 +29,7 @@
 ## 📫 Connect With Me  
 - GitHub: [@Paul-Adekomi](https://github.com/Paul-Adekomi)  
 
+- X(Twitter): [@Paul_Adekenny](https://x.com/Paul_Adekenny)
 ---
 
 ⭐ **Fun fact:** Every project I build is another step toward becoming the software engineer I dream to be 🚀  
