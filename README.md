@@ -30,6 +30,8 @@ use# 👋 Hi, I'm Paul Adekomi
 - GitHub: [@Paul-Adekomi](https://github.com/Paul-Adekomi)  
 
 - X(Twitter): [@Paul_Adekenny](https://x.com/Paul_Adekenny)
+
+- LinkedIn: [@Paul Adekomi](https://www.linkedin.com/in/paul-adekomi)
 ---
 
 ⭐ **Fun fact:** Every project I build is another step toward becoming the software engineer I dream to be 🚀  
