@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Paul Adekomi  
+![Profile Views](https://komarev.com/ghpvc/?username=Paul-Adekomi&color=blue)
 
 💻 **Software Engineer** passionate about building modern, responsive, and user-friendly web applications.  
 ⚡ Skilled in **JavaScript, React, Vite, TailwindCSS** and always improving my frontend engineering craft.  
