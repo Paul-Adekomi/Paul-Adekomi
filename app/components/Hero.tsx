@@ -61,7 +61,7 @@ export default function Hero() {
             </Link>
 
             <Link
-              href="https://x.com/"
+              href="https://x.com/padekomi"
               target="_blank"
               rel="noopener noreferrer"
               className="group inline-flex items-center justify-center gap-1 rounded-md border border-neutral px-5 py-3 transition-all duration-300 hover:border-primary hover:text-primary"

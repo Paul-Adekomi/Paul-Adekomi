@@ -94,7 +94,7 @@ export default function Page() {
             </Link>
 
             <Link
-              href="https://x.com/"
+              href="https://x.com/padekomi"
               target="_blank"
               rel="noopener noreferrer"
               className="transition-colors hover:text-primary"

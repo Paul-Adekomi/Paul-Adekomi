@@ -21,7 +21,8 @@ const jetBrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: "Paul Adekomi | AI-Native Software Engineer",
   description:
-    "Portfolio of Paul Adekomi, an AI-native software engineer building modern web experiences and AI-powered products.",
+    "Portfolio of Paul Adekomi, an AI-Native Software Engineer building modern web applications and AI-powered products.",
+  metadataBase: new URL("https://pauladekomi.dev"),
 };
 
 export default function RootLayout({
