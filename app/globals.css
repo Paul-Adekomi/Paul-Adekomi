@@ -1,0 +1,82 @@
+@import "tailwindcss";
+
+:root {
+  --background: #001f24;
+  --primary: #00e5ff;
+  --secondary: #b9c8de;
+  --tertiary: #fec931;
+  --neutral: #71787a;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-primary: var(--primary);
+  --color-secondary: var(--secondary);
+  --color-tertiary: var(--tertiary);
+  --color-neutral: var(--neutral);
+  --font-headline: var(--font-space-grotesk);
+  --font-body: var(--font-inter);
+  --font-label: var(--font-jetbrains-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--secondary);
+  font-family: var(--font-body);
+}
+.card {
+  @apply w-[25%] h-70 rounded-2xl bg-gray-800/10 backdrop-blur-sm border border-neutral/30 p-5 font-label;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(25px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-fade-up {
+  animation: fade-up 0.8s ease-out both;
+}
+
+.animate-fade-up-delayed {
+  animation: fade-up 1s ease-out 0.2s both;
+}
+
+.animate-float {
+  animation: float 5s ease-in-out infinite;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
