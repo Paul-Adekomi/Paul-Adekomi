@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   title: "Paul Adekomi | AI-Native Software Engineer",
   description:
     "Portfolio of Paul Adekomi, an AI-Native Software Engineer building modern web applications and AI-powered products.",
-  metadataBase: new URL("https://pauladekomi.dev"),
+  metadataBase: new URL("https://paul-adekomi.vercel.app"),
 };
 
 export default function RootLayout({
