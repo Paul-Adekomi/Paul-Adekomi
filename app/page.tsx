@@ -62,7 +62,7 @@ export default function Page() {
           </p>
 
           <Link
-            href="mailto:your-email@example.com"
+            href="mailto:pauladekomi@gmail.com"
             className="group mt-3 inline-flex items-center gap-2 rounded-md border border-primary bg-primary px-7 py-3 font-headline text-background transition-all duration-300 hover:bg-transparent hover:text-primary hover:shadow-[0_0_30px_rgba(245,166,35,0.15)]"
           >
             <Mail size={17} />
@@ -103,7 +103,7 @@ export default function Page() {
             </Link>
 
             <Link
-              href="pauladekomi@gmail.com"
+              href="mailto:pauladekomi@gmail.com"
               className="transition-colors hover:text-primary"
             >
               Email
