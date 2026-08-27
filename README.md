@@ -83,9 +83,9 @@ An AI-powered application for generating concise summaries from user-provided co
 
 ## 📫 Connect With Me
 
-* 🌐 **Portfolio:** Coming soon
+* 🌐 **Portfolio:** [paul-adekomi](https://paul-adekomi.vercel.app)
 * 💻 **GitHub:** [@Paul-Adekomi](https://github.com/Paul-Adekomi)
-* 𝕏 **X:** [@Paul_Adekenny](https://x.com/padekomi)
+* 𝕏 **X:** [@padekomi](https://x.com/padekomi)
 
 ---
 
